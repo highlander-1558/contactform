@@ -1,0 +1,20 @@
+
+
+
+th{
+    padding-top: 15px;
+    text-align: left;
+}
+td{
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+form{
+    display: inline-block;
+}
+
+.btn--insert{
+    margin-left: 20px;
+    background-color: #FF8C00;
+}
